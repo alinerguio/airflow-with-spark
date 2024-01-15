@@ -1,0 +1,11 @@
+apache-airflow
+apache-airflow-providers-slack
+psycopg2-binary
+boto3
+awswrangler
+apache-airflow-providers-apache-spark
+deltalake
+apache-airflow-providers-postgres
+airflow-provider-great-expectations
+'apache-airflow[amazon]'
+great-expectations
